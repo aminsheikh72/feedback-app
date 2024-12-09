@@ -40,25 +40,25 @@ i5.addEventListener("click", () => selectRating(i5, "Excellent"));
         return;
     }
     
-    if(selectRating(i1 , "sad")){
-        ul.style.backgroundColor = "black"
-        ul.style.color = "white"
-    }
-    else if(selectRating(i2, "Unhappy")){
-        ul.style.backgroundColor = "rgb(164, 91, 40)"
-        ul.style.color = "white"
-    }
-    else if(selectRating(i3, "Avarage")){
-        ul.style.backgroundColor = "rgba(192, 90, 90, 0.826)"
-        ul.style.color = "white"
-    }
-    else if(() => selectRating(i4, "Good")){
-        ul.style.backgroundColor = "rgba(0, 128, 0, 0.535)"
-    }
-    else if(selectRating(i5, "Excellent")){
-        ul.style.backgroundColor = "rgba(9, 181, 9, 0.718)"
+    // if(selectRating(i1 , "sad")){
+    //     ul.style.backgroundColor = "black"
+    //     ul.style.color = "white"
+    // }
+    // else if(selectRating(i2, "Unhappy")){
+    //     ul.style.backgroundColor = "rgb(164, 91, 40)"
+    //     ul.style.color = "white"
+    // }
+    // else if(selectRating(i3, "Avarage")){
+    //     ul.style.backgroundColor = "rgba(192, 90, 90, 0.826)"
+    //     ul.style.color = "white"
+    // }
+    // else if(() => selectRating(i4, "Good")){
+    //     ul.style.backgroundColor = "rgba(0, 128, 0, 0.535)"
+    // }
+    // else if(selectRating(i5, "Excellent")){
+    //     ul.style.backgroundColor = "rgba(9, 181, 9, 0.718)"
 
-    }
+    // }
 
     
 
